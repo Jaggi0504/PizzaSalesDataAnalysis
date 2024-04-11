@@ -29,6 +29,6 @@ On Best/Worst Sellers page:
 Insights about the data:
 1. The store received maximum orders on Friday.
 2. July was the busiest month with total of 1935 orders and January was the second highest with 1845.
-3. All the pizza categories are performing quite well in revenue. However, Classic pizza contributed ~27% of revenue and performed the best.
+3. All the categories performed quite well in revenue. Classic pizza contributed ~27% of revenue and performed the best.
 4. The Large sized pizza had the maximum revenue and XL only contributed ~1.7% of the total revenue (the worst).
 5. The store owner has to focus on Bottom 5 pizzas by revenue, quantities sold, and total orders.
