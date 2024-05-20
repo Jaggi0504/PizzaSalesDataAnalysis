@@ -8,7 +8,7 @@ In this project, I did some analysis on the data of a pizza store and displayed 
 On Home page:
 1. Displayed KPIs like Total Revenue, Total Orders, Total Pizzas Sold, Average Pizzas Per Order, Average Order Value.
 2. Total revenue by pizza category.
-3. Total evenue by pizza size.
+3. Total revenue by pizza size.
 4. Total pizzas sold by pizza category.
 5. Total orders by day.
 6. Total orders by month.
