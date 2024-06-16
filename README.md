@@ -32,3 +32,6 @@ Insights about the data:
 3. All the categories performed quite well in revenue. Classic pizza contributed ~27% of revenue and performed the best.
 4. The Large sized pizza had the maximum revenue and XL only contributed ~1.7% of the total revenue (the worst).
 5. The store owner has to focus on Bottom 5 pizzas by revenue, quantities sold, and total orders.
+
+
+HOSTED: https://app.powerbi.com/groups/me/reports/6c18714b-32b9-4691-a63a-fa7203843a3f/ReportSection?experience=power-bi
